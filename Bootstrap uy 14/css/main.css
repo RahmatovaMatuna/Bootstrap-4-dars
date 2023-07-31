@@ -1,0 +1,17 @@
+body{
+    background-color: #098fa2;
+}
+.text{
+   background-color:#17a2b8;
+    color: white;
+    margin-top: 150px;
+    box-shadow: 10px 10px 10px rgba(80,80,80,0.5);
+}
+.btn{
+    position: relative;
+    left: 350px;
+    top: 25px;
+    background-color: #17a2b8;
+    color: white;
+    border: white;
+}

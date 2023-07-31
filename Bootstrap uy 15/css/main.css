@@ -1,0 +1,23 @@
+body{
+    background-color: #b8d3ef;
+}
+.aaa{
+    text-align: center;
+}
+.btn{
+    position: relative;
+    left: 230px;
+}
+.block{
+    background-color: #17a2b8;
+    color: white;
+}
+.text{
+    text-align: center;
+}
+.btn1{
+    background-color: #17a2b8;
+    color: white;
+    border: 1px solid white;
+    margin-top: 13px;
+}

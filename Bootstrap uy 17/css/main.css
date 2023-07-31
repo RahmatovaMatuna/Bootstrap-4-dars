@@ -1,0 +1,76 @@
+body{
+    background-color: indianred;
+}
+.item{
+    position: relative;
+    left: 450px;
+    bottom: 90px;
+}
+.img-fluid{
+    position: relative;
+    left: 20px;
+}
+.p1{
+    position: relative;
+    left: 150px;
+    bottom: 75px;
+}
+.p2{
+    position: relative;
+    left: 150px;
+    bottom: 75px;
+}
+.p3{
+    position: relative;
+    left:230px;
+    bottom: 115px;
+    color: red;
+}
+.text{
+    border: 1px solid white;
+    background-color: white;
+    height: 180px;
+}
+.img{
+    position: relative;
+    top: 50px;
+}
+.p4{
+    position: relative;
+    left: 150px;
+    bottom: 20px;
+}
+.p5{
+    position: relative;
+    left: 150px;
+    bottom: 25px;
+}
+.p6{
+    color: red;
+    position: relative;
+    left: 210px;
+    bottom: 64px;
+}
+.web{
+    margin-top: 40px;
+}
+.zar{
+    position: relative;
+    left:970px;
+    bottom: 190px;
+}
+.bas{
+    position: relative;
+    left: 970px;
+    bottom: 130px;
+}
+.das{
+    position: relative;
+    left: 970px;
+    bottom: 140px;
+}
+.bar{
+    position: relative;
+    left: 970px;
+    bottom: 150px;
+}
